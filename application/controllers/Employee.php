@@ -21,7 +21,7 @@ class Employee extends CI_Controller {
 	public function index()
 	{
 		//$this->load->view('welcome_message');
-		echo "Welcome";
+		echo "Welcome toptal";
 	}
 
 	public function create()
